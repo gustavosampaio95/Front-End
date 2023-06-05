@@ -1,2 +1,2 @@
 # Front-End
-Repository created for front end development projects.
+Personal project for a restaurant.
